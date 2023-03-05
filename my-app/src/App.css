@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body {
+  background-color: white; /* light mode background color */
+}
+
+body.dark-mode {
+  background-color: black; /* dark mode background color */
+}
+
